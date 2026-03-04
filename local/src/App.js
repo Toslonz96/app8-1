@@ -1,6 +1,6 @@
 import React from "react";
-import FormGet from "./form-get";
+import FormPost from "./form-post";
 
 export default function App(){
-    return <FormGet />
+    return <FormPost />
 }
